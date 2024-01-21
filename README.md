@@ -174,4 +174,4 @@ python model.py
 
 ![Screenshot 2](https://github.com/HarishNandhan/Medical_chatbot_using_LLAMA2/blob/main/data/prompt%20response.jpg)
 
-Feel free to contribute and improve this Medical Chatbot project! If you encounter any issues, please open an [issue](https://github.com/yourusername/medical-chatbot/issues).
+Feel free to contribute and improve this Medical Chatbot project! If you encounter any issues, please open an [issue](https://github.com/HarishNandhan/Medical_chatbot_using_LLAMA2/issues).
